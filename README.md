@@ -18,8 +18,10 @@ Medientel siguiente sistema indicará si el cliente es cantidato a un credito o 
 
 
 
-Instrucciones
+--Instrucciones
+
+
 Llenar los 4 inputs con la información que se solicitará del cliente.
 
 
-THE END
+Se esepra el calculo.
