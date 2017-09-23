@@ -25,3 +25,11 @@ Llenar los 4 inputs con la información que se solicitará del cliente.
 
 
 Se esepra el calculo.
+
+
+--EJEMPlOS;
+
+https://ibb.co/mnHhik
+
+
+https://ibb.co/gZRsik
