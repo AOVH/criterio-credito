@@ -2,6 +2,9 @@
 Este proyecto tiene como función mostrar los principios de una red neuronal con un ejemplo cotidiano.
 
 -- Objetivo
+
+
+
 Medientel siguiente sistema indicará si el cliente es cantidato a un credito o no;
 
 
