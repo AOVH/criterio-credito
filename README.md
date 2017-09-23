@@ -1,15 +1,22 @@
 # criterio-credito
-Este proyecto tiene como función, mostrar los principio de una red neurona, con un ejemplo cotidiano.
+Este proyecto tiene como función mostrar los principios de una red neuronal con un ejemplo cotidiano.
 
-Objetivo
-El sistema indicara si el cliente es cantidato a un credito o no;
-
-
-*Cuenta con 4 entradas de informacion
+-- Objetivo
+Medientel siguiente sistema indicará si el cliente es cantidato a un credito o no;
 
 
-*Cada entrada de informacion esta sujeta a un pesos
+*Consta de cuatro entradas de información
+
+
+*Cada entrada está sujeta a un peso.
+
+
+
+
 
 
 Instrucciones
-Llenar los 4 inputs con la informacion del cliente.
+Llenar los 4 inputs con la información que se solicitará del cliente.
+
+
+THE END
